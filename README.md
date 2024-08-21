@@ -4,7 +4,7 @@
 
 In this project we are analysing Data Professional survey Data set. 
 
-Following actions are performed as part of this project in PowerBi .
+Following actions are performed as part of this project in Power Bi .
 
 * Data Cleaning using Power Query Editor.
 
